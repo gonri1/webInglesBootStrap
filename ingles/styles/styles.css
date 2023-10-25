@@ -1,0 +1,71 @@
+.nosotros {
+
+    text-align: justify;
+    line-height: 2.3em;
+    ;
+}
+
+label {
+    margin-bottom: 20px;
+
+}
+
+input {
+
+    margin-bottom: 10px;
+
+}
+
+.form-control:hover {
+
+    background-color: lightgrey;
+}
+
+label:hover {
+
+    color: brown;
+}
+
+label {
+    color: rgb(51, 67, 27);
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.card {
+
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
+    cursor: default;
+    transition: all 400ms ease;
+
+}
+
+.card:hover {
+
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+    transform: translateY(-3%);
+}
+
+.mb-3, h2, h1, h4{
+
+text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+
+}
+
+.h5{
+
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);  
+}
+
+#borderform{
+
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+    transform: translateY(-3%); 
+}
+
+
+
